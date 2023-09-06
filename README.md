@@ -13,4 +13,4 @@ My projects in bootcamp.
 * Python for Data Analyst
 * Dashboard
 
-Verified Badge: https:
+Verified Badge: https: https://api.badgr.io/public/assertions/SUUoor2NRWOGNZfulG0OyA?identity__email=ptatathan%40gmail.com
