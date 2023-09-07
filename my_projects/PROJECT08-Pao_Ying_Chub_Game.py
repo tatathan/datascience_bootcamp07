@@ -1,4 +1,4 @@
-def pizza():
+def game():
     from random import sample
     print("Instruction: type 'exit' to exit the programe")
     print("Start!")
